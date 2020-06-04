@@ -1,4 +1,6 @@
 import numpy as np
+
+
 data = open('kafka.txt', 'r').read().lower()
 chars = list(set(data))
 
