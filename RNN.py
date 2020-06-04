@@ -15,7 +15,7 @@ encoded_vector = np.zeros((vocab_size, 1))
 
 hidden_size = 100
 seq_length = 25
-eta = 0.1
+eta = 0.2
 epochs = 1000000
 
 
